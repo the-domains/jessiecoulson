@@ -1,4 +1,3 @@
-layout_spectrum: 0.2772436449304223
 typography_spectrum: 0.7576967205386609
 color:
   brandStrength: 0.23472174885682762
@@ -11,4 +10,6 @@ color:
     - '#FFFF9D'
     - '#C9DE55'
     - '#7D9100'
+layout_spectrum: 0.2772436449304223
 name: jessiecoulson
+title: Photography
